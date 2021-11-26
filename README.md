@@ -1,8 +1,8 @@
 # Pterodactyl Installer
 Installing Pterodactyl in just a few minutes! <br />
 Please note this script is meant to be used on fresh installations only. You must run it as root. <br />
-<br />
-**Ubuntu quick run**
+ <br />
+**Ubuntu quick run** <br />
 `wget https://raw.githubusercontent.com/fizztune/Pterodactyl-Installer/master/install.sh && bash install.sh` <br />
 <br />
 
