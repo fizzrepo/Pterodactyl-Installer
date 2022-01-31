@@ -131,7 +131,7 @@ os_check(){
         fi
     elif [ "$lsb_dist" = "fedora" ]; then
         if [ "$dist_version" != "35" ]; then
-            output "Unsupported Fedora version. Only Fedora 34 is supported."
+            output "Unsupported Fedora version. Only Fedora 35 is supported."
             exit 2
         fi
     elif [ "$lsb_dist" = "centos" ]; then
